@@ -1,0 +1,5 @@
+opencv-python
+cvzone
+SpeechRecognition
+pywin32
+pyaudio
